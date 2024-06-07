@@ -5,4 +5,4 @@ Meu nome é Pedro Nascimento
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### Você pode entrar em contato comigo :mailbox  phnascimento2014@gmail.com 
+  ### Você pode entrar em contato comigo pelo email:  phnascimento2014@gmail.com 
